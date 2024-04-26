@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gautamr3han69" target="blank"><img src="https://img.shields.io/twitter/follow/gautamr3han69?logo=twitter&style=for-the-badge" alt="gautamr3han69" /></a> </p>
 
-- 🔭 I’m currently working on [SocialFeed Backend Project]([https://github.com/Codearick/NextJs-Blog-App](https://github.com/Codearick/SocialFeed-Backend-Project))
+- 🔭 I’m currently working on [SocialFeed Backend Project]([\https://github.com/Codearick/SocialFeed-Backend-Project])
 
 - 👨‍💻 All of my projects are available at [https://github.com/Codearick?tab=repositories](https://github.com/Codearick?tab=repositories)
 
