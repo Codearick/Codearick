@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,React.js,Tailwind,Next.js**
 
-- 📫 How to reach me [Email](rohan.gautam650@gmail.com)
+- 📫 How to reach me [Website](https://my-portfolio-plum-iota.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
