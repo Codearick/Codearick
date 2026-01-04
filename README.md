@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Gautam</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 <p align="left"> <a href="https://twitter.com/gautamr3han69" target="blank"><img src="https://img.shields.io/twitter/follow/gautamr3han69?logo=twitter&style=for-the-badge" alt="gautamr3han69" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,React.js,Tailwind,Next.js**
 
-- 📫 How to reach me <a href="https://my-portfolio-plum-iota.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a>
+- 📫 How to reach me <a href="https://my-portfolio-plum-iota.vercel.app/" target="_blank">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
