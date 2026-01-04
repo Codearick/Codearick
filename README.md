@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,React.js,Tailwind,Next.js**
 
-- 📫 How to reach me [Website](https://my-portfolio-plum-iota.vercel.app/)
+- 📫 How to reach me <a href="https://my-portfolio-plum-iota.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
